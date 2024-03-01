@@ -2,6 +2,7 @@
   {
     "id": 1,
     "property_type": "House",
+    "name":"Seashore View",
     "price": "400K",
     "price_in_details": 400000,
     "place_in_district": "One Kattameia, Maadi",
@@ -20,6 +21,7 @@
   {
     "id": 2,
     "property_type": "Apartment",
+    "name":"Horizon Terrace",
     "price": "250K",
      "price_in_details": 250000,
     "place_in_district": "Rayhana Avenio, Maadi",
@@ -38,6 +40,7 @@
   {
     "id": 3,
     "property_type": "Villa",
+    "name":"Emerald Coast Escape",
     "price": "4M",
      "price_in_details": 4000000,
     "place_in_district": "Pavaria Town, Maadi",
@@ -60,6 +63,7 @@
   {
     "id": 4,
     "property_type": "House",
+      "name":"Shiny Marble House",
     "price": "350K",
      "price_in_details": 350000,
     "place_in_district": "Crystal Plaza, Maadi",
@@ -78,6 +82,7 @@
   {
     "id": 5,
     "property_type": "Apartment",
+    "name":"Metroview Place",
     "price": "120K",
      "price_in_details": 120000,
     "place_in_district": "Grand Gate, Maadi",
@@ -98,6 +103,7 @@
   {
     "id": 6,
     "property_type": "Villa",
+    "name":"Sapphire Seascape Villa",
     "price": "12M",
      "price_in_details": 12000000,
     "place_in_district": "Katamya Gate, Maadi",
@@ -118,6 +124,7 @@
   {
     "id": 7,
     "property_type": "House",
+    "name":"Comfy Stables",
     "price": "700K",
      "price_in_details": 700000,
     "place_in_district": "Degla Land Mark, Nasr City",
@@ -137,6 +144,7 @@
   {
     "id": 8,
     "property_type": "Apartment",
+     "name": "Velvet Vista",
     "price": "620K",
      "price_in_details": 620000,
     "place_in_district": "Degla Towers, Nasr City",
@@ -155,6 +163,7 @@
   {
     "id": 9,
     "property_type": "Villa",
+    "name":"Tropical Tides",
     "price": "9M",
      "price_in_details": 9000000,
     "place_in_district": "Lake Front, 6 Of October",
@@ -177,6 +186,7 @@
   {
     "id": 10,
     "property_type": "House",
+     "name":"Starforce Houses",
     "price": "710K",
      "price_in_details": 710000,
     "place_in_district": "Kafr Abdo, Sidi Gaber",
@@ -197,6 +207,7 @@
   {
     "id": 11,
     "property_type": "Apartment",
+    "name": "Swanky Suite",
     "price": "250K",
      "price_in_details": 250000,
     "place_in_district": "Gleem",
@@ -215,6 +226,7 @@
   {
     "id": 12,
     "property_type": "Villa",
+    "name": "Mountain Peak Manor",
     "price": "15M",
      "price_in_details": 15000000,
     "place_in_district": "Smouha",
@@ -236,6 +248,7 @@
   {
     "id": 13,
     "property_type": "House",
+    "name":"Rustic Reunion House",
     "price": "443K",
      "price_in_details": 443000,
     "place_in_district": "San Stefano",
@@ -254,6 +267,7 @@
   {
     "id": 14,
     "property_type": "House",
+    "name":"SunsetOasis House",
     "price": "510K",
      "price_in_details": 510000,
     "place_in_district": "Elmahalla-Elkubra",
@@ -272,6 +286,7 @@
   {
     "id": 15,
     "property_type": "Apartment",
+     "name": "The Modern Monastery",
     "price": "230K",
      "price_in_details": 230000,
     "place_in_district": "Elragdeya",
@@ -290,6 +305,7 @@
   {
     "id": 16,
     "property_type": "Villa",
+    "name": "Beach Blessing Villa",
     "price": "17M",
      "price_in_details": 17000000,
     "place_in_district": "Elragdeya",
@@ -308,6 +324,7 @@
   {
     "id": 17,
     "property_type": "House",
+    "name":"GreenHill House",
     "price": "800K",
      "price_in_details": 800000,
     "place_in_district": "Tanta",
@@ -326,6 +343,7 @@
   {
     "id": 18,
     "property_type": "Apartment",
+    "name": "Forest Glen Heights",
     "price": "615K",
      "price_in_details": 615000,
     "place_in_district": "Elmahalla-Elkubra",
@@ -346,6 +364,7 @@
   {
     "id": 19,
     "property_type": "Villa",
+     "name": "Palm Paradise Retreat",
     "price": "22M",
      "price_in_details": 22000000,
     "place_in_district": "Miami",
@@ -371,6 +390,7 @@
   {
     "id": 20,
     "property_type": "House",
+    "name":"PineHaven House",
     "price": "440K",
      "price_in_details": 440000,
     "place_in_district": "Muharam bey",
